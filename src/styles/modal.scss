@@ -1,0 +1,13 @@
+dialog {
+    background: black;
+    padding: 50px;
+
+    button.btn-close {
+        position: absolute;
+        margin: 0;
+        height: 1em;
+        width: 1em;
+        top: 0.5em;
+        right: 0.5em;
+    }
+}
