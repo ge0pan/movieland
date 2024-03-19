@@ -1,3 +1,14 @@
+.movies {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 20px;
+    padding: 20px;
+}
+
+.movies-more {
+    padding: 20px;
+}
+
 .container {
     padding-top: 100px;
     color: #fff;
